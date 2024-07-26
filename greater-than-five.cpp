@@ -9,4 +9,4 @@ int main() {
         cout << "Greater than 5";
 }
 
-//output : greater than 
+//output : greater than
