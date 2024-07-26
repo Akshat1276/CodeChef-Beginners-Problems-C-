@@ -12,6 +12,6 @@ int main() {
     else{ 
         cout << "both are equal";
         int x = 25;
-        int y = 17;
+        int z = 17;
         }
 }
