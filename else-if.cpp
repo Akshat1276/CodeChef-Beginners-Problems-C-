@@ -13,5 +13,5 @@ int main() {
     else{
         cout << "Negative";
     }
-    return ;
+    return 0;
 }
