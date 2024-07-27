@@ -24,10 +24,10 @@ int main() {
     if(a>90){
         cout << "A";
     }
-    else if(70<a<90){
+    else if(a>70){
         cout << "B";
     }
-    else if(40<=a<70){
+    else if(a>=40){
         cout << "C";
     }
     else{
