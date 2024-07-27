@@ -6,8 +6,8 @@ int main() {
     if(x > 10){
         cout << "Number is greater than 10";
     }
-    if(x>5){
-        cout << "Number is greater tha 5";
-    }
+    // if(x>5){
+    //     cout << "Number is greater tha 5";
+    // }
     return 0;
 }
