@@ -2,17 +2,12 @@
 using namespace std;
 
 int main() {
-    int x = 62, y = 62;
-    if (x > y){
-        cout << "x is greater";
-        }
-    else if(y > x){
-        cout << "y is greater";
-        }
-    else{ 
-        cout << "both are equal";
-        int x = 25;
-        int a = 17;
-        }
+    int x = 62;
+    if(x > 10){
+        cout << "Number is greater than 10";
+    }
+    if(x>5){
+        cout << "Number is greater tha 5";
+    }
+    return 0;
 }
-{}
