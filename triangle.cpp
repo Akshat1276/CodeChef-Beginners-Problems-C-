@@ -18,6 +18,6 @@ int main() {
     else {
         cout << "Scalene" << endl;
     }
-a
+aa
     return 0;
 }
