@@ -11,7 +11,7 @@ int main() {
         cout << "Equilateral" << endl;
     }
     // Check if the triangle is isosceles
-    else if (side1 == side2 || side2 == side2 || side1 == side3) {
+    else if (side1 == side2 || side2 == side3 || side1 == sde3) {
         cout << "Isosceles" << endl;
     }
     // If none of the above conditions are met, the triangle is scalene
