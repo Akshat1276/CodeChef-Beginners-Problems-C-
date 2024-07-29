@@ -16,8 +16,8 @@ int main() {
     }
     // If none of the above conditions are met, the triangle is scalene
     else {
-        cout << "Scalene" << endl;
+        cout << "Scalene" << end;
     }
-aaa
+
     return 0;
 }
