@@ -10,7 +10,7 @@ int main() {
 	    cout << name1 << "\n";
 	}
 	else if(percent2 > percent1){
-	    cout << name2 << "\\n";
+	    cout << name2 << "\n";
 	}
 	else{
 	    cout << "equal" << "\n";
