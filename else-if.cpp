@@ -9,9 +9,11 @@ int main() {
     }
     else if(num == 0){
         cout << "Zero";
+        
     }
     else{
         cout << "Negative";
     }
     return 0;
 }
+
