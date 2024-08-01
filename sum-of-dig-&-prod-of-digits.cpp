@@ -14,3 +14,4 @@ int main() {
 	cout<< sum<< " " << product<<"\n";
 
 }
+a
