@@ -2,7 +2,13 @@
 using namespace std;
 
 int main() {
-    int x = 1887;
-	cout << x/100;
-    return 0;
+	int n;
+	cin>>n;
+	int count = 0;
+	while(n != 0){
+	    n /= 10;
+	    count++;
+	}
+	cout<<count << "\n";
+
 }
