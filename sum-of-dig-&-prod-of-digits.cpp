@@ -9,7 +9,7 @@ int main() {
 	while(n != 0){
 	    sum += (n % 10);
 	    product = product * (n % 10);
-	    n /= 100;
+	    n /= 10;
 	}
 	cout<< sum<< " " << product<<"\n";
 
