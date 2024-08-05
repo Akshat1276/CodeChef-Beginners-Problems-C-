@@ -10,7 +10,7 @@ int main() {
 	    sum += (n % 10);
 	    product = product * (n % 10);
 	    n /= 10;
-		  
+		  c
 	}
 	cout<< sum<< " " << product<<"\n";
 
